@@ -1,6 +1,7 @@
-= ipmispec
+= Ipmispec
 
-Description goes here.
+Ruby rspec matchers for IPMI. Useful for testing your hardware against the IPMI specifications.
+Write your own test suite to test your hardware using these matchers.
 
 == Contributing to ipmispec
  
